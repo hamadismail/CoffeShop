@@ -34,6 +34,6 @@ For a complete walkthrough of the platform, watch the overview video below:
 4. Run the application on a local server or a web server that supports PHP and MySQL.
 
 ## Usage
-- **Access the user panel to browse and order products.**
-- **Use the admin panel to manage products, orders, and users.**
+- Access the user panel to browse and order products.
+- Use the admin panel to manage products, orders, and users.
 

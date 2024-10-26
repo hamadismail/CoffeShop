@@ -5,7 +5,7 @@ This project is a fully responsive multi-vendor e-commerce web application that 
 ## Project Overview
 For a complete walkthrough of the platform, watch the overview video below:
 
-[![Project Overview](/images/overviewImg.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7129148928595292160)
+[![Project Overview](/images/overviewImg.png)](https://github.com/user-attachments/assets/dc338873-86d7-45e2-b4b5-2dee93fc38a7)
 
 
 

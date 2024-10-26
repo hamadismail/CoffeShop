@@ -2,6 +2,11 @@
 
 This project is a fully responsive multi-vendor e-commerce web application that allows users to browse, add products to their cart, and place orders. The admin panel enables management of products, orders, and users, creating a complete e-commerce experience. Built using HTML, CSS, JavaScript, PHP, and MySQL.
 
+## Overview Video
+For a complete walkthrough of the platform, watch the overview video below:
+
+[![Project Overview Video](./videos/overview-thumbnail.png)](./videos/overview.mp4)
+
 ## Features
 
 ### User Panel
@@ -10,14 +15,10 @@ This project is a fully responsive multi-vendor e-commerce web application that 
 - **Order Placement**: Complete orders with selected items.
 - **Account Management**: Register and manage user account information.
 
-![User Panel](./images/user-panel.png)
-
 ### Admin Panel
 - **Product Management**: Add, edit, or remove products.
 - **Order Tracking**: View and manage customer orders.
 - **User Management**: Oversee registered users and their activities.
-
-![Admin Panel](./images/admin-panel.png)
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript

@@ -2,7 +2,7 @@
 
 This project is a fully responsive multi-vendor e-commerce web application that allows users to browse, add products to their cart, and place orders. The admin panel enables management of products, orders, and users, creating a complete e-commerce experience. Built using HTML, CSS, JavaScript, PHP, and MySQL.
 
-## Overview Video
+## Project Overview
 For a complete walkthrough of the platform, watch the overview video below:
 
 [![Project Overview Video](./videos/overview-thumbnail.png)](./videos/overview.mp4)
@@ -29,3 +29,4 @@ For a complete walkthrough of the platform, watch the overview video below:
 1. Clone this repository.
    ```bash
    git clone https://github.com/username/multi-vendor-ecommerce-platform.git
+2. Import the MySQL database structure from ``` database.sql ```

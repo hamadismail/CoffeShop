@@ -7,9 +7,8 @@ For a complete walkthrough of the platform, watch the overview video below:
 
 [![Project Overview Video](/images/overviewImg.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7129148928595292160)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7129148928595292160" height="577" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<video src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7129148928595292160" height="577" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
 ## Features
 

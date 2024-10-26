@@ -28,7 +28,7 @@ For a complete walkthrough of the platform, watch the overview video below:
 ## Installation
 1. Clone this repository.
    ```bash
-   git clone https://github.com/username/multi-vendor-ecommerce-platform.git
+   https://github.com/hamadismail/CoffeShop.git
 2. Import the MySQL database structure from ``` database.sql ```
 3. Configure your server and database settings in ``` config.php ```
 4. Run the application on a local server or a web server that supports PHP and MySQL.
